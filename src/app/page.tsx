@@ -234,6 +234,14 @@ export default function Home() {
                   image: '/kama.png',
                   github: 'https://github.com/Badboixixi77/kama-main.git',
                   live: 'https://kama-main.vercel.app'
+                },
+                {
+                  title: 'Buysome',
+                  description: 'An e-commerce platform built with Next.js, featuring a modern UI and seamless shopping experience.',
+                  tech: ['Next.js', 'React', 'Tailwind CSS'],
+                  image: '/buysome.png',
+                  github: 'https://github.com/Badboixixi77/buysome.git',
+                  live: 'https://buysome.vercel.app'
                 }
               ].map((project) => (
                 <div 
