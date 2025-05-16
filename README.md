@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio Website
+
+This is my personal portfolio website built with Next.js and TypeScript.
+
+Last updated: March 2024
+
+## Features
+- Modern and responsive design
+- Built with Next.js and TypeScript
+- Showcases my projects and skills
+- Optimized for performance
 
 ## Getting Started
 
